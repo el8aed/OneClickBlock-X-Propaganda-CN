@@ -17,6 +17,7 @@
 ## 📝 更新日志 / Changelog
 
 - 北京时间晚9点名单列表已更新至 **9415 个账号**
+- 添加了Twitter/X Glass Great Wall油猴过滤脚本
 
 ---
 
