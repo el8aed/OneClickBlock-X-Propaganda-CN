@@ -26,7 +26,7 @@
 ### ✅ **步骤 1：下载屏蔽名单**
 
 直接从本仓库下载最新屏蔽名单（格式已匹配 Mass Block Twitter 插件要求）：  
-**👉 [点击下载 Accounts_based_in_China-block-list.json](./block-lists/Accounts_based_in_China-block-list.json)**
+**👉 [点击下载 Accounts_based_in_China-block-list.json](https://github.com/FKCosmos/OneClickBlock-X-Propaganda-CN/blob/main/Accounts_based_in_China-block-list.json)**
 
 > 保存到本地电脑，文件内容无需修改。
 
